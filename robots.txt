@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /contact/complete
+
+# Host
+Host: https://www.bitkraft.vc
+
+# Sitemaps
+Sitemap: https://www.bitkraft.vc/sitemap.xml
